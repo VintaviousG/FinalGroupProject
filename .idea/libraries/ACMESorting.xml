@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ACMESorting">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../ProjectJarFiles/ACMESorting.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../ProjectJarFiles" />
+      <root url="jar://$PROJECT_DIR$/../../ProjectJarFiles/ACMESorting.jar!/" />
+    </SOURCES>
+  </library>
+</component>
