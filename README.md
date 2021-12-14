@@ -16,3 +16,7 @@ Our teacher wanted to create a technical report, which can be found in this link
 
 ## Usage
 The program would ask the user which day it and give them the information needed. The output would provide the user the amount of data sorted on a given day, which Software as a service used, time to sort in milliseconds and seconds, and the total money cost. Depending on which day it is, it will take the program to complete. ACME sorting has a time complexity of O(n^2) and AJAX's time complexity is O(n log n). 
+## Output Example
+![Example](https://github.com/VintaviousG/FinalGroupProject/blob/master/FinalGroupProject.png)
+
+
